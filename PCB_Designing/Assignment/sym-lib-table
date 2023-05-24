@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "HMC5983")(type "KiCad")(uri "E:/PCB_Designing/HMC5983.kicad_sym")(options "")(descr ""))
-  (lib (name "FM25V01")(type "KiCad")(uri "${KIPRJMOD}/FM25V01.kicad_sym")(options "")(descr ""))
-  (lib (name "MIC5233-33")(type "KiCad")(uri "${KIPRJMOD}/MIC5233-33.kicad_sym")(options "")(descr ""))
-)
