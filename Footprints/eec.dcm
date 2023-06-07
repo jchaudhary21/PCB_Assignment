@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MIC5233-3.3YM5-TR
-D MIC5233-3.3YM5-TR
-F http://ww1.microchip.com/downloads/en/DeviceDoc/High-Input-Voltage-Low-IQ-uCap-LDO-Regulator-DS20006033C.pdf
-$ENDCMP
-# end doc library
